@@ -12,25 +12,25 @@
         "pyrogram"
     ],
     "website": "https://t.me/FTTIT",
-    "repository": "https://github.com/AlawiAlQurashi/JACK",
-    "success_url": "https://t.me/FTTIT",
+    "repository": "https://github.com/USDDBOOT/Shadow",
+    "success_url": "https://t.me/KB_Shadow",
     "env": {
         "API_ID": {
-            "description": "8373939",
+            "description": "15770953",
             "required": true
         },
         "API_HASH": {
-            "description": "dc1476b2e297c057ee2d7b6df265a199",
+            "description": "3a26ba5d4f7a43dc34bc7e94b1e1b780",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "قم بوضع توكن البوت الخاص بك هنا",
+            "description": "5664558596:AAG5XqxYMNKLEwwr7DFRLIFp_-l28K8iu5M",
             "required": true
         },
         "BOT_USERNAME": {
             "description": "معرف البوت",
             "required": false,
-            "value": "CHELP0BOT"
+            "value": "PX_XHbot"
         },
         "ASSISTANT_USERNAME": {
             "description": "معرف المساعد",
