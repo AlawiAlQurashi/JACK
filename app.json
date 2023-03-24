@@ -12,8 +12,8 @@
         "pyrogram"
     ],
     "website": "https://t.me/FTTIT",
-    "repository": "https://github.com/USDDBOOT/Shadow",
-    "success_url": "https://t.me/KB_Shadow",
+    "repository": "https://github.com/AlawiAlQurashi/JACK",
+    "success_url": "https://t.me/FTTIT",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
