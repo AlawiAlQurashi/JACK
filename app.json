@@ -11,26 +11,26 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/FTTIT",
+    "website": "https://t.me/FA9SH",
     "repository": "https://github.com/USDDBOOT/Shadow",
     "success_url": "https://t.me/KB_Shadow",
     "env": {
         "API_ID": {
-            "description": "15770953",
+            "description": "قم بوضع الايبي ايدي هنا",
             "required": true
         },
         "API_HASH": {
-            "description": "3a26ba5d4f7a43dc34bc7e94b1e1b780",
+            "description": "قم بوضع الايبي هاش",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "5664558596:AAG5XqxYMNKLEwwr7DFRLIFp_-l28K8iu5M",
+            "description": "قم بوضع توكن البوت الخاص بك هنا",
             "required": true
         },
         "BOT_USERNAME": {
             "description": "معرف البوت",
             "required": false,
-            "value": "PX_XHbot"
+            "value": "CHELP0BOT"
         },
         "ASSISTANT_USERNAME": {
             "description": "معرف المساعد",
@@ -44,22 +44,22 @@
         "SUDO_USERS": {
             "description": "قم بوضع ايدي المطور الاساسي",
             "required": true,
-            "value": "5719613462"
+            "value": "1970797144"
         },
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "FTTITY"
+            "value": "S150D"
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": "FTTIT"
+            "value": "FA9SH"
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": "ALAWE1"
+            "value": "KB_Shadow"
         }, 
         "MONGODB_URL": {
             "description": "قاعدة البيانات",
@@ -69,7 +69,7 @@
         "UPSTREAM_REPO": {
             "description": "لا تغيره",
             "required": true,
-            "value": "https://github.com/AlawiAlQurashi/JACK"
+            "value": "https://github.com/Ttqqk/N"
         }
     },
     "addons": [],
