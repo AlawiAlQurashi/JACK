@@ -16,11 +16,11 @@
     "success_url": "https://t.me/FTTIT",
     "env": {
         "API_ID": {
-            "description": "قم بوضع الايبي ايدي هنا",
+            "description": "8373939",
             "required": true
         },
         "API_HASH": {
-            "description": "قم بوضع الايبي هاش",
+            "description": "dc1476b2e297c057ee2d7b6df265a199",
             "required": true
         },
         "BOT_TOKEN": {
