@@ -11,7 +11,7 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/FA9SH",
+    "website": "https://t.me/FTTIT",
     "repository": "https://github.com/USDDBOOT/Shadow",
     "success_url": "https://t.me/KB_Shadow",
     "env": {
@@ -44,22 +44,22 @@
         "SUDO_USERS": {
             "description": "قم بوضع ايدي المطور الاساسي",
             "required": true,
-            "value": "1970797144"
+            "value": "5719613462"
         },
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "S150D"
+            "value": "FTTITY"
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": "FA9SH"
+            "value": "FTTIT"
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": "KB_Shadow"
+            "value": "ALAWE1"
         }, 
         "MONGODB_URL": {
             "description": "قاعدة البيانات",
@@ -69,7 +69,7 @@
         "UPSTREAM_REPO": {
             "description": "لا تغيره",
             "required": true,
-            "value": "https://github.com/Ttqqk/N"
+            "value": "https://github.com/AlawiAlQurashi/JACK"
         }
     },
     "addons": [],
