@@ -69,7 +69,7 @@
         "UPSTREAM_REPO": {
             "description": "لا تغيره",
             "required": true,
-            "value": "https://github.com/Ttqqk/N"
+            "value": "https://github.com/AlawiAlQurashi/JACK"
         }
     },
     "addons": [],
