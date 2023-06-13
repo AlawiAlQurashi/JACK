@@ -1,3 +1,5 @@
+version: "3.10"
+services:
 build:
   docker:
     worker: Dockerfile
