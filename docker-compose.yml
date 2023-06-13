@@ -1,15 +1,12 @@
 version: "3.10"
+
 services:
-build:
 
-  docker:
+   worker:
 
-    worker: Dockerfile
+    build: .
 
-run:
-
-  worker: python3 main.py
-  environment:
+    environment:
 
       API_ID: $API_ID
 
