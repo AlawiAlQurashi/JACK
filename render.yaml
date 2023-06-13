@@ -1,0 +1,40 @@
+services:
+  - type: web
+    plan: free
+    name: JACK
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    repo: https://github.com/AlawiAlQurashi/JACK.git
+    branch: main
+    autoDeploy: false
+    envVars:
+      - key: API_ID
+        sync: false
+      - key: API_HASH
+        sync: false
+      - key: BOT_TOKEN
+        sync: false
+      - key: BOT_USERNAME
+        sync: false
+      - key: ASSISTANT_NAME
+        sync: false
+      - key: SESSION_NAME
+        sync: false
+      - key: SUDO_USERS
+        sync: false
+      - key: GROUP_SUPPORT
+        sync: false
+      - key: UPDATES_CHANNEL
+        sync: false
+      - key: OWNER_NAME
+        sync: false
+      - key: BOT_PHOTO
+        sync: false
+      - key: DEV_PHOTO
+        sync: false
+          - key: DEV_NAME
+        sync: false
+      - key: ALIVE_NAME
+        sync: false
+        
