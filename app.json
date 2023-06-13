@@ -11,8 +11,8 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/FA9SH",
-    "repository": "https://github.com/USDDBOOT/Shadow",
+    "website": "https://t.me/FTTIT",
+    "repository": "https://github.com/AlawiAlQurashi/JACK",
     "success_url": "https://t.me/KB_Shadow",
     "env": {
         "API_ID": {
